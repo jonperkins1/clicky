@@ -1,6 +1,6 @@
 {
 	"name": "reactgame",
-	"homepage": "http://jonperkins1.github.io/clicky",
+	"homepage": "http://jonperkins1.github.io/clicky/index.html",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
